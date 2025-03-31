@@ -1,0 +1,15 @@
+*{
+    background-color: grey;
+}
+
+.title{
+    height: 2500px;
+    font-family: "Helvetica";
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image:url("https://oiiacat.io/wp-content/uploads/2024/11/C7oGMZ-unscreen-ezgif.com-crop.gif");
+}
+
+
